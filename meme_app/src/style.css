@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: teal;
+    text-align: center;
+}
+button{
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-bottom: 5rem;
+    cursor: pointer;
+}
